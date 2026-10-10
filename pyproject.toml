@@ -1,0 +1,17 @@
+[project]
+name = "pixeltable-forge-heats"
+version = "0.1.0"
+description = "Forge heat-cycle registry API: B-tree indexes, chained risk UDFs, and parallel shop-floor writers - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "fastapi", "computed-columns", "data-infrastructure", "forge-heats"]
+dependencies = [
+    "pixeltable[serve]>=0.7.16",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

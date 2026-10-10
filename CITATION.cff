@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Forge Heat Cycles API built with Pixeltable"
+abstract: "Forge heat-cycle registry API: B-tree indexes, chained risk UDFs, and parallel shop-floor writers."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-forge-heats"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-10
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "database-indexing"
+  - "manufacturing"
+  - "fastapi"
+  - "btree"
+  - "concurrency"
+  - "udf"
+  - "multimodal"
